@@ -1,0 +1,27 @@
+{
+  "name": "aitdfront",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "no thanks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerenityInAllThings/TDFront.git"
+  },
+  "author": "SerenityInAllThings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SerenityInAllThings/TDFront/issues"
+  },
+  "homepage": "https://github.com/SerenityInAllThings/TDFront#readme",
+  "dependencies": {
+    "webpack": "^3.5.5"
+  },
+  "devDependencies": {
+    "ts-loader": "^2.3.7",
+    "typescript": "^2.4.2",
+    "uglifyjs-webpack-plugin": "^0.4.6"
+  }
+}
